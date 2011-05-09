@@ -29,3 +29,5 @@ billable.
 ### Copyright
 Client owns the copyright of all Products created while performing Services for the Client except in the cases noted below.
 
+#### Copyright Exceptions
+1. The Developer can withhold ownership of the copyright for small portions of the created Product as desired. 
