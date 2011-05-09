@@ -10,6 +10,9 @@ Company or individual entering into this contract with the Developer.
 Any task or series of tasks done by the Developer on request from the Client,
 or as part of fulfilling a request from the Client.
 
+### Product
+Any code, images, markup, scrips, content created by the Developer while performing Services
+
 ## Terms
 
 ### Rate
@@ -22,3 +25,7 @@ an invoice.
 ### Billable Time
 All time spent performing Services and communicating with the Client is
 billable.
+
+### Copyright
+Client owns the copyright of all Products created while performing Services for the Client except in the cases noted below.
+
