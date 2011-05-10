@@ -32,6 +32,11 @@ an invoice.
 All time spent performing Services and communicating with the Client is
 billable.
 
+	1. **Estimations**:
+	If an estimate is requested by the Client, the first 30 minutes of time spent
+	preparing the estimate will not be billable.  Time spent on an estimate beyond
+	30 minutes will be billable at the normal rate.
+
 4. **Copyright**:
 Client owns the copyright of all Products created while performing Services for
 the Client except in the cases noted below.
