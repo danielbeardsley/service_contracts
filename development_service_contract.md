@@ -56,5 +56,5 @@ is notified at least 14 days before termination.
 
 ### Changes
 Either party may request to modify the terms of this contract at any time.
-When both parties come to an agreement and a new contract is signed, this
+When both parties consent to new terms and a new contract is signed, this
 contract is terminated immediately.
