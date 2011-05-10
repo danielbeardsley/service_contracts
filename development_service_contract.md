@@ -16,6 +16,9 @@ or as part of fulfilling a request from the Client.
 Any code, images, markup, scrips, content created by the Developer while
 performing Services
 
+### Intangibles
+Knowledge about solutions to problems, methods, or designs
+
 ## Terms
 
 ### Rate
@@ -38,4 +41,18 @@ the Client except in the cases noted below.
 the created Product as desired.  Portions withheld must be small in relation
 to the size of the entire Product.
 2. Any portions of the product who's copyright is withheld by the developer
-are licensed to the Client for use in the product
+are licensed to the Client for use in the product under the MIT license:
+http://www.opensource.org/licenses/mit-license.php
+
+### Intangible Property
+The Developer retains ownership of all Intangibles gained by the Developer
+(that are not previously owned by the Client) while providing Services.
+
+### Termination
+Either party may terminate this contract as long as the other party
+is notified at least 14 days before termination.  
+
+### Changes
+Either party may request to modify the terms of this contract at any time.
+When both parties come to an agreement and a new contract is signed, this
+contract is terminated immediately.
