@@ -37,12 +37,14 @@ Client owns the copyright of all Products created while performing Services for
 the Client except in the cases noted below.
 
 #### Copyright Exceptions
-1. The Developer can withhold ownership of the copyright for small portions of
-the created Product as desired.  Portions withheld must be small in relation
-to the size of the entire Product.
+1. The Developer reserves the right to reuse and relicense portions of the
+created Product as desired.
 2. Any portions of the product who's copyright is withheld by the developer
 are licensed to the Client for use in the product under the MIT license:
 http://www.opensource.org/licenses/mit-license.php
+3. The Client will only be billed for portions of the Product which were
+created during the effective peroid of this contract and created while perfoming
+Services for the Client.
 
 ### Intangible Property
 The Developer retains ownership of all Intangibles gained by the Developer
