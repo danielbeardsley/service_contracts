@@ -22,7 +22,7 @@ Knowledge about solutions to problems, methods, or designs
 ## Terms
 
 ### Rate
-Services shall be billed to the Client at the rate of $75 USD per hour.
+Services shall be billed to the Client at the rate of $__ USD per hour.
 
 ### Payment
 The Client shall send payment to the Developer within 30 days of receiving
