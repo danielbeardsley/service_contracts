@@ -2,22 +2,22 @@
 
 ## Definitions
 
-Name 
 **Developer**:
+Name of Individual issuing this contract.
 
-Company or individual entering into this contract with the Developer.
 **Client**:
+Name of Company or individual entering into this contract with the Developer.
 
 **Services**:
 Any task or series of tasks done by the Developer on request from the Client,
 or as part of fulfilling a request from the Client.
 
-Any code, images, markup, scrips, content created by the Developer while
-performing Services
 **Product**:
+Any code, images, markup, scripts, content created by the Developer while
+performing Services.
 
-Knowledge about solutions to problems, methods, or designs
 **Intangibles**:
+Knowledge about solutions to problems, methods, or designs.
 
 ## Terms
 
@@ -39,8 +39,8 @@ the Client except in the cases noted below.
 5. **Copyright Exceptions**
 	1. The Developer reserves the right to reuse and re-license portions of the
 created Product as desired.
-are licensed to the Client for use in the product under the MIT license:
 	2. Any portions of the Product who's copyright is withheld by the developer
+are licensed to the Client for use in the Product under the MIT license:
 http://www.opensource.org/licenses/mit-license.php
 	3. The Client will only be billed for portions of the Product which were
 created during the effective period of this contract and created while
