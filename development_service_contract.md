@@ -27,6 +27,10 @@ Services shall be billed to the Client at the rate of $__ USD per hour.
 2. **Payment**:
 The Client shall send payment to the Developer within 30 days of receiving
 an invoice.
+	
+	1. **Late Payment**:
+	If a payment is more than 7 days late, no Services will be performed for the
+	Client until payment is received.
 
 3. **Billable Time**:
 All time spent performing Services and communicating with the Client is
