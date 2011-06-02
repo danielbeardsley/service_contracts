@@ -42,8 +42,9 @@ billable.
 	30 minutes will be billable at the normal rate.
 
 4. **Copyright**:
-Client owns the copyright of all Products created while performing Services for
-the Client except in the cases noted below.
+Copyright of all Products created while performing Services for the Client will
+be transferred to the Client upon receipt of payment in full, except in the
+cases described below.
 
 5. **Copyright Exceptions**
 	1. The Developer reserves the right to reuse and re-license portions of the
