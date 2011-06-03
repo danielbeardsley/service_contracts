@@ -61,8 +61,9 @@ The Developer retains ownership of all Intangibles gained by the Developer
 (that are not previously owned by the Client) while providing Services.
 
 7. **Termination**:
-Either party may terminate this contract as long as the other party
-is notified at least 14 days before termination.  
+Either party must give at least 14 days notice to the other party before
+termination.  This contract may only be terminated after all outstanding
+invoices have been paid in full.
 
 8. **Changes**:
 Either party may request to modify the terms of this contract at any time.
