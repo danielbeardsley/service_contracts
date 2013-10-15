@@ -8,7 +8,7 @@ for the Design / Development crowd.
 rates, specific terms, ...
 	* Send the contract back and forth in plain text or use Google Documents
 	  until the terms have been finalized.
-3. Convert the Markdown to HTML with something like [Formattr](formattr.heroku.com)
+3. Convert the Markdown to HTML with something like [Formattr](http://formattr.heroku.com)
 4. Then add something like: "contract id: 87ffdsf4" to the footer with the
 	 first 8 characters of the commit id that represents the final contract.
 5. Create a PDF of the document with your signature and send it to the client.
