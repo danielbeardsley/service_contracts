@@ -47,9 +47,11 @@ be transferred to the Client upon receipt of payment in full, except in the
 cases described below.
 
 5. **Copyright Exceptions**
-	1. The Developer reserves the right to reuse and re-license portions of the
-created Product as desired, as long as the portions are general solutions
-to common problems and are not specific to the Clients product.
+	1. Notwithstanding the foregoing, the Developer, in his sole and absolute
+discretion, reserves the right to reuse and re-license portions of the
+Product as desired, as long as the portions are reasonably considered by the
+Developer to be general solutions to common problems and are not specific to
+the Product.
 	2. Any portions of the Product whose copyright is withheld by the developer
 are licensed to the Client for use in the Product under the MIT license:
 http://www.opensource.org/licenses/mit-license.php
