@@ -49,7 +49,7 @@ cases described below.
 5. **Copyright Exceptions**
 	1. The Developer reserves the right to reuse and re-license portions of the
 created Product as desired, as long as the portions are general solutions
-to common problems and are not specific to the Clients product.
+to common problems and are not specific to the Client's product.
 	2. Any portions of the Product whose copyright is withheld by the developer
 are licensed to the Client for use in the Product under the MIT license:
 http://www.opensource.org/licenses/mit-license.php
